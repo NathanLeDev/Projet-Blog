@@ -75,7 +75,7 @@ export default function Accueil() {
                                         alt="Bruno.Dernier"
                                     />
                                     <div className="text-left">
-                                        <p className="text-white font-bold transition duration-500 ease-in-out hover:brightness-50">Bruno.Dernier</p>
+                                        <p className="text-white font-bold transition duration-500 ease-in-out hover:brightness-50">Formateur.Expert</p>
                                         <p className="text-slate-300 font-thin">Ma maison est plus belle ;)</p>
                                     </div>
                                 </div>

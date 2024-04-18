@@ -132,7 +132,7 @@ export const Header = () => {
                     <a className='transition duration-500 ease-in-out hover:text-gray-600 hover:scale-110' href="https://twitter.com/?lang=fr">Maison de campagne</a>
                     <a className='transition duration-500 ease-in-out hover:text-gray-600 hover:scale-110' href="https://twitter.com/?lang=fr">Cabane</a>
                     <a className='transition duration-500 ease-in-out hover:text-gray-600 hover:scale-110' href="https://twitter.com/?lang=fr">Appartement</a>
-                    <a className='transition duration-500 ease-in-out hover:text-gray-600 hover:scale-110' href="/profil/661d2bc915fc42b2d526a40d">Profil</a>
+                    <a className='transition duration-500 ease-in-out hover:text-gray-600 hover:scale-110' href="/profil/661d2bc915fc42b2d526a40d/modifier">Profil</a>
 
                 </div>
                 <Dialog>
